@@ -198,12 +198,9 @@ Kolibri brings offline education to learners in low-resource communities around 
 
 ## 🔭 Current Quests
 
-- [x] Complete Google Summer of Code 2026
-- [x] Win a hackathon outright (done twice)
-- [ ] Ship the Almanak integration with the KeeperHub team
-- [ ] Land merged PRs in Cognee during Mergetober
-- [ ] Turn **PRISM.ai** into a real company
-- [ ] Reach **Expert** on Codeforces
+- [ ] 🌍 **Work with the best engineering teams in the world** and learn how great products get built at scale
+- [ ] 🚀 **Found my own company**, a startup that solves real problems for real people
+- [ ] 🧠 **Be the person who solves problems:** find the hard ones, understand them deeply, and ship what fixes them
 
 ---
 

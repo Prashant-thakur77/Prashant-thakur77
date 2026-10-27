@@ -87,9 +87,14 @@ Built **[`KMultiSelect`](https://github.com/learningequality/kolibri-design-syst
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,vue,nextjs,nodejs,fastapi,pytorch,tailwind,postgres,aws,gcp,docker,linux,solidity,git&perline=9&theme=dark" />
-</p>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,solidity&theme=dark" height="36" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,tailwind&theme=dark" height="36" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,redis&theme=dark" height="36" /> |
+| **AI / Agents** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/CopilotKit-6C47FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,githubactions,vercel&theme=dark" height="36" /> |
+| **Accessibility** | <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logo=w3c&logoColor=white" /> <img src="https://img.shields.io/badge/ARIA-005A9C?style=flat-square&logo=w3c&logoColor=white" /> <img src="https://img.shields.io/badge/Screen_readers_(Orca,_NVDA)-2F81F7?style=flat-square&logo=accessibility&logoColor=white" /> |
 
 ---
 
@@ -102,18 +107,6 @@ Built **[`KMultiSelect`](https://github.com/learningequality/kolibri-design-syst
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prashant-thakur77&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-### 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-thakur77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
-### 🧱 GitHub Achievements
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prashant-thakur77/Prashant-thakur77/main/metrics.achievements.svg" />
 </p>
 
 ### 🐍 Contribution Graph

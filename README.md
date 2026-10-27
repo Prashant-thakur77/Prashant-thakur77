@@ -72,18 +72,6 @@ side_quests: Accessibility · Competitive Programming · Web3 · CTFs
 | 🎖️ | **Smart India Hackathon 2026** | Cleared the NIT Hamirpur internal round as team lead (HexTech) |
 | ☀️ | **Google Summer of Code 2026** | Completed at Learning Equality, shipped KMultiSelect |
 
----:|---|---|
-| 🥇 | **1st Place, KeeperHub "Agent Economy" Hackathon** (DoraHacks) | Ranked #1 of 139 teams with *Almanak strategies, executed by KeeperHub*; now building it deeper with KeeperHub's engineers |
-| 🥇 | **1st Place, Salesforce Futureforce AI Challenge**, Hyderabad | Agentforce **Deal Desk Assistant**, built over an 18-hour on-site hackathon (team ChaiCodeAurChill) |
-| 🥈 | **2nd Prize, First Commit, Bharat Builds Tour** (WeMakeDevs × AWS) | [**Beacon Night Shift**](https://github.com/Prashant-thakur77/Beacon), a voice-approved AWS incident-remediation agent, which **earned a fast-track Amazon interview** |
-| 🥈 | **2nd, Best Use of Speechmatics, AI Infra Summit Hackathon** (lablab.ai) | **Thali**, a voice-controlled bimanual SO-101 robot that sets the table for people who can't use their hands |
-| 🏅 | **Prize Winner, AssemblyAI Voice Agent Hackathon** (lablab.ai) | Voice agent built with team CoffeAndCode |
-| 🎖️ | **Grand Finalist, Codestreet Hackathon**, Chennai | |
-| 🎖️ | **Round 3, Adobe University Hackathon 2026** | Built an Agent Skill Marketplace for AI-discoverability audits |
-| 🎖️ | **Smart India Hackathon 2026**, cleared the internal round | Team lead, HexTech |
-| ☀️ | **Google Summer of Code 2026**, Learning Equality | Shipped KMultiSelect for the Kolibri Design System |
-| 📈 | **Batch Rank 1**, NIT Hamirpur | Across the whole B.Tech batch, all branches |
-
 ---
 
 ## ☀️ Google Summer of Code 2026 · Learning Equality

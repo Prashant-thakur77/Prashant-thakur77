@@ -29,9 +29,9 @@
 ```yaml
 player:      Prashant Thakur
 class:       Full-Stack AI Builder  ·  Open-Source Contributor
-guild:       NIT Hamirpur, B.Tech CSE (2024–2028)  ·  GDG on Campus Co-Lead
+guild:       NIT Hamirpur, B.Tech CSE (2024–2028)
 main_quest:  Ship AI agents that actually work in production
-side_quests: Accessibility · Competitive Programming · Web3 · CTFs
+side_quests: Accessibility · Competitive Programming · Web3
 ```
 
 | ⚔️ Stat | Value |
@@ -42,7 +42,6 @@ side_quests: Accessibility · Competitive Programming · Web3 · CTFs
 | 🔀 Merged PRs to Learning Equality | **15+** |
 | 🧩 DSA problems solved | **700+** |
 | 📈 Codeforces | **Specialist, ~1517** |
-| 🎤 Largest event co-organized | **700+ students** |
 
 ---
 
@@ -194,16 +193,6 @@ Kolibri brings offline education to learners in low-resource communities around 
     <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Prashant-thakur77/Prashant-thakur77/output/github-snake-dark.svg" />
   </picture>
 </p>
-
----
-
-## 🎤 Community
-
-- 🟢 **Co-Lead, GDG on Campus NIT Hamirpur** (previously Executive Member)
-- 🚀 Organized **Genesis**, the GDG freshers' orientation for **700+ students**
-- 🌊 Co-hosted **GDG Abyss**, a hybrid fun and technical event with **500+ participants**
-- 🧑‍🏫 Ran workshops on open source, agentic development and Webcmd
-- 🚩 Organized **CTF** events on campus
 
 ---
 

@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-thakur-046678322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/2730Thakur12618"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1MIKVmtv_lgHrzLI7kVT8AizSts6zgG7O/view"><img src="https://img.shields.io/badge/Resume-2F81F7?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="mailto:prashant101007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -76,7 +77,7 @@ Built **[`KMultiSelect`](https://github.com/learningequality/kolibri-design-syst
 
 | Project | What it does |
 |---|---|
-| **PRISM.ai** | Supply-chain digital twin. My startup |
+| [**PRISM.ai**](https://prismai.me) | Supply-chain digital twin. My startup |
 | [**Beacon**](https://github.com/Prashant-thakur77/Beacon) 🥈 | Agent that diagnoses and fixes AWS incidents after a voice approval |
 | **Thali** 🥈 | Bimanual robot policy (ACT/SmolVLA) on Intel OpenVINO, driven by voice |
 | **Almanak × KeeperHub** 🥇 | Autonomous DeFi strategies with reliable on-chain execution |

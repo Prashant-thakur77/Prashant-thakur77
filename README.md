@@ -123,9 +123,9 @@ Built **[`KMultiSelect`](https://github.com/learningequality/kolibri-design-syst
 
 ## 🔭 What's Next
 
-- Build with the best engineering teams in the world
-- Found a company that solves a problem people actually have
-- Find hard problems and ship the fix
+- 🌍 **Engineer at a world-class tech company.** Learn how products serving millions are built, scaled and shipped.
+- 🦄 **Build a billion-dollar company.** Found a startup that becomes a unicorn by solving a problem millions of people actually have.
+- 🧠 **Be the go-to problem solver.** Take on the hardest problems, understand them to the root, and ship the solution.
 
 ---
 

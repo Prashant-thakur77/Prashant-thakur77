@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=%3E+player.init(%22Prashant%22);Google+Summer+of+Code+2026+%40+Learning+Equality;5x+hackathon+prize+winner+%F0%9F%8F%86;Codeforces+Specialist+%7C+700%2B+problems+solved;Batch+Rank+1+%40+NIT+Hamirpur;Building+AI+agents%2C+MCP+servers+%26+accessible+UIs" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=%3E+player.init(%22Prashant%22);Google+Summer+of+Code+2026+%40+Learning+Equality;5x+hackathon+prize+winner+%F0%9F%8F%86;Codeforces+Specialist+%7C+700%2B+problems+solved;Building+AI+agents%2C+MCP+servers+%26+accessible+UIs" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
 player:      Prashant Thakur
 class:       Full-Stack AI Builder  ·  Open-Source Contributor
 guild:       NIT Hamirpur, B.Tech CSE (2024–2028)  ·  GDG on Campus Co-Lead
-rank:        Batch Rank #1 of ~900
 main_quest:  Ship AI agents that actually work in production
 side_quests: Accessibility · Competitive Programming · Web3 · CTFs
 ```
@@ -47,10 +46,33 @@ side_quests: Accessibility · Competitive Programming · Web3 · CTFs
 
 ---
 
-## 🏆 Trophy Room · Achievements Unlocked
+## 🏆 Hackathon Wins
 
-| | Achievement | Details |
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_1st_Place-×2-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈_2nd_Place-×2-C0C0C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅_Prize_Winner-×1-CD7F32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Prizes-5-2F81F7?style=for-the-badge" />
+</p>
+
+| 🏅 | Hackathon | Project | Result |
+|:---:|---|---|---|
+| 🥇 | **KeeperHub "The Agent Economy Hackathon"** · DoraHacks | *Almanak strategies, executed by KeeperHub*, agentic DeFi strategies run through KeeperHub | **1st place of 139 teams** · now building it further with KeeperHub's engineers |
+| 🥇 | **Salesforce Futureforce AI Challenge** · Hyderabad (on-site) | **Deal Desk Assistant** on Agentforce, built in 18 hours | **1st place** · team ChaiCodeAurChill |
+| 🥈 | **First Commit, Bharat Builds Tour** · WeMakeDevs × AWS | [**Beacon Night Shift**](https://github.com/Prashant-thakur77/Beacon), voice-approved AWS incident-remediation agent | **2nd prize** · earned a fast-track Amazon interview |
+| 🥈 | **AI Infra Summit Hackathon** · lablab.ai | **Thali**, voice-controlled two-arm robot that sets the table for people who can't use their hands | **2nd, Best Use of Speechmatics** |
+| 🏅 | **AssemblyAI Voice Agent Hackathon** · lablab.ai | Voice agent | **Prize winner** · team CoffeAndCode |
+
+### 🎖️ Finals and Milestones
+
+| | Event | Result |
 |:---:|---|---|
+| 🎖️ | **Codestreet Hackathon**, Chennai | Grand finalist |
+| 🎖️ | **Adobe University Hackathon 2026** | Reached Round 3 (Agent Skill Marketplace build) |
+| 🎖️ | **Smart India Hackathon 2026** | Cleared the NIT Hamirpur internal round as team lead (HexTech) |
+| ☀️ | **Google Summer of Code 2026** | Completed at Learning Equality, shipped KMultiSelect |
+
+---:|---|---|
 | 🥇 | **1st Place, KeeperHub "Agent Economy" Hackathon** (DoraHacks) | Ranked #1 of 139 teams with *Almanak strategies, executed by KeeperHub*; now building it deeper with KeeperHub's engineers |
 | 🥇 | **1st Place, Salesforce Futureforce AI Challenge**, Hyderabad | Agentforce **Deal Desk Assistant**, built over an 18-hour on-site hackathon (team ChaiCodeAurChill) |
 | 🥈 | **2nd Prize, First Commit, Bharat Builds Tour** (WeMakeDevs × AWS) | [**Beacon Night Shift**](https://github.com/Prashant-thakur77/Beacon), a voice-approved AWS incident-remediation agent, which **earned a fast-track Amazon interview** |

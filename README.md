@@ -123,9 +123,9 @@ Built **[`KMultiSelect`](https://github.com/learningequality/kolibri-design-syst
 
 ## 🔭 What's Next
 
-- 🌍 **Engineer at a world-class tech company.** Learn how products serving millions are built, scaled and shipped.
-- 🦄 **Build a billion-dollar company.** Found a startup that becomes a unicorn by solving a problem millions of people actually have.
-- 🧠 **Be the go-to problem solver.** Take on the hardest problems, understand them to the root, and ship the solution.
+- **Build alongside the best.** Learn from the engineers who ship software at planetary scale.
+- **Found a unicorn.** Turn one real problem into a billion-dollar company.
+- **Solve what others walk past.** Go to the root, then build the fix.
 
 ---
 

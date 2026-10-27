@@ -63,13 +63,10 @@ side_quests: Accessibility · Competitive Programming · Web3 · CTFs
 | 🥈 | **AI Infra Summit Hackathon** · lablab.ai | **Thali**, voice-controlled two-arm robot that sets the table for people who can't use their hands | **2nd, Best Use of Speechmatics** |
 | 🏅 | **AssemblyAI Voice Agent Hackathon** · lablab.ai | Voice agent | **Prize winner** · team CoffeAndCode |
 
-### 🎖️ Finals and Milestones
+### 🎖️ Milestones
 
 | | Event | Result |
 |:---:|---|---|
-| 🎖️ | **Codestreet Hackathon**, Chennai | Grand finalist |
-| 🎖️ | **Adobe University Hackathon 2026** | Reached Round 3 (Agent Skill Marketplace build) |
-| 🎖️ | **Smart India Hackathon 2026** | Cleared the NIT Hamirpur internal round as team lead (HexTech) |
 | ☀️ | **Google Summer of Code 2026** | Completed at Learning Equality, shipped KMultiSelect |
 
 ---
